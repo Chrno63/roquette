@@ -6,6 +6,7 @@ HTTP - Test connexion utilisation du debugguer pour voir les trames réseau.
 nikto -h <URL>
 nmap -p 1-65535 -sV -sS -T4 <IP>
 dirb 
+Encode / Decode : https://www.root-me.org/spip.php?page=outils&inc=code_decode&lang=en
 
 # Neonazi à l'intérieur. 
 Récupération page de login.php.old, mot de passe base64, décode sur base64decode.org
