@@ -30,3 +30,6 @@ http://mywebsite.php/login.php?id=1 OR 1=1 UNION SELECT username, password, 3, f
 
 # gcc
 apt-install libc6-dev-i386
+
+#Magic Hash
+Hash commencant par 0e. Il suffit de trouver un autre hash qui commence par 0e sur internet et d'utiliser le code correspondant.
